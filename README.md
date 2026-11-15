@@ -152,7 +152,7 @@ All colours are self-contained in the package as plain hex vectors: the colour m
   - Crameri, F. (2018), *Geodynamic diagnostics, scientific visualisation and StagLab 3.0*, Geosci. Model Dev., 11, 2541–2562,
     <https://doi.org/10.5194/gmd-11-2541-2018>
   - Crameri, F., Shephard, G.E. & Heron, P.J. (2020), *The misuse of colour in science communication*, Nat. Commun. 11, 5444,
-    <https://doi.org/10.1038/s41467-020-19122-7>
+  	<https://doi.org/10.1038/s41467-020-19160-7>
 - **viridis**: Smith, N. & van der Walt, S. (2015), *A Better Default Colormap for Matplotlib*, presented at SciPy 2015,
   <https://www.youtube.com/watch?v=xAoljeRJ3lU>.
 - **cividis**: Núñez, J. R., Anderton, C. R. & Renslow, R. S. (2018), *Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data*, PLOS ONE, 13(7), e0199239,
