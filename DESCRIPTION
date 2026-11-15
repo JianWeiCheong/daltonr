@@ -1,0 +1,20 @@
+Package: daltonr
+Type: Package
+Title: Modern CVD-Friendly 'ggplot2' Theme with Crameri, Viridis, Cividis and Petroff Palettes
+Version: 0.1.0
+Authors@R: person("Jian Wei", "Cheong", role = c("aut", "cre"), email = "contact@jianwei.simplelogin.com")
+Description: Provides 'theme_daltonr()', a 'ggplot2' theme in the modern
+    scientific style that sets CVD-friendly default colour scales. Discrete
+    aesthetics automatically use the qualitative Petroff colour palettes
+    (petroff6, petroff8, petroff10, picked based on the number of groups), and
+    continuous aesthetics use the scientific colour maps of Fabio Crameri or
+    viridis/cividis. Scale functions are provided for every colour map, on both
+    continuous and discrete scales. 'theme_daltonr()' adds automatic linetypes
+    to discrete-colour line plots, makes raster and filled-contour plots fill
+    the axis frame, and styles matplotlib-like colourbars.
+License: GPL-3
+Encoding: UTF-8
+Depends: R (>= 4.0.0)
+Imports: ggplot2 (>= 3.5.0), grDevices, rlang, scales
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0

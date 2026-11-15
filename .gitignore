@@ -1,0 +1,7 @@
+.devenv/
+.Rproj.user/
+.Rhistory
+.RData
+*.tar.gz
+*.Rcheck/
+Rplots.pdf
