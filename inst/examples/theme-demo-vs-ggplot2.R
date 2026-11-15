@@ -138,7 +138,6 @@ d_contours <- ggplot(volcano_df, aes(x, y, z = height)) +
     linewidth = 0.25
   ) +
   scale_fill_daltonr_d(
-    palette = "lajolla",
     name = "Elevation (m)",
     guide = guide_daltonr_colourbar("discrete")
   ) +
